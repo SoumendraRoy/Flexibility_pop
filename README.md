@@ -1,0 +1,1 @@
+This repository shows that even when two population models have exactly same prior volumes, they can end up different posteriors when inferred with the same data, purely due to differences in their functional forms.
